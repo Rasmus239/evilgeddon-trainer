@@ -1,9 +1,6 @@
 evilgeddon-trainer
 ==================
 
-Evilgeddon Spooky Max Trainer
-==================
-
 This is a simple trainer created in C# for Evilgeddon Spooky Max.
 
 What it does:
